@@ -1,6 +1,6 @@
 首先进入到工程文件所在的目录。比如我的文件某个工程放在(.xcodeproj文件所在的目录) /Users/xxx/xxx
 
-然后ce /Users/xxx/xxx 到这个目录下
+然后cd /Users/xxx/xxx 到这个目录下
 
 ##第一步先编译生成testDemo.xcarchive 文件。 
 
